@@ -3,7 +3,6 @@
 # Logs
 logs
 *.log
-*.logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -245,6 +244,7 @@ ehthumbs_vista.db
 # Folder config file
 [Dd]esktop.ini
 
+Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -257,4 +257,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
+node_modules
 node_modules

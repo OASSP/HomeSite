@@ -4,38 +4,31 @@ HomeSite for OASSP
 
 1.[Site Build with Wagtail CMS](https://docs.wagtail.org/en/stable/getting_started/tutorial.html)
 
-
-
-
-
-
-
-
 ## Docs
 
-[About Me](https://github.com/josephkb87) 
+[About Me](https://github.com/josephkb87)
 
-[About OASSP](https://oassp.org/index.html) 
+[About OASSP](https://oassp.org/index.html)
 
-[README](../docs/README.md) 
+[README](../docs/README.md)
 
-[CHANGELOG](../docs/CHANGELOG.md) 
+[CHANGELOG](../docs/CHANGELOG.md)
 
-[Contribute](../docs/CONTRIBUTING.md) 
+[Contribute](../docs/CONTRIBUTING.md)
 
 [Pull Requests](../docs/blob/PRs.md)  
 
-[SECURITY](../docs/SECURITY.md) 
+[SECURITY](../docs/SECURITY.md)
 
-[Attributions](..docs/Attributions.md) 
+[Attributions](..docs/Attributions.md)
 
-[Code Of Conduct](../docs/CodeOfConduct.md) 
+[Code Of Conduct](../docs/CodeOfConduct.md)
 
-[LICENSE](../docs/LICENSE.md) 
+[LICENSE](../docs/LICENSE.md)
 
 [Wiki](https://oassp.github.io/wiki).
 
-Changes & updates to the current [Documentation](https://oassp.github.io/docs.html) 
+Changes & updates to the current [Documentation](https://oassp.github.io/docs.html)
 
 You can also access our [Wiki](https://oassp.github.io/wiki).
 
@@ -43,10 +36,9 @@ Our <a href="https://oassp.github.io/privacy">Privacy Policy</a>
 
 Our <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
 
-You can also access our 
+You can also access our
 
 <a href="https://oassp.github.io/privacy">Privacy Policy</a> .<a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
-
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
