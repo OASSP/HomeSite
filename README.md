@@ -32,13 +32,10 @@ Changes & updates to the current [Documentation](https://oassp.github.io/docs.ht
 
 You can also access our [Wiki](https://oassp.github.io/wiki).
 
-Our <a href="https://oassp.github.io/privacy">Privacy Policy</a>
+Our [Privacy Policy](https://oassp.github.io/privacy)
 
-Our <a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
+Our [Terms and Conditions](https://oassp.github.io/termsandconditions)
 
-You can also access our
-
-<a href="https://oassp.github.io/privacy">Privacy Policy</a> .<a href="https://oassp.github.io/termsandconditions">Terms and Conditions</a>
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">

@@ -8,7 +8,8 @@
 
 project = 'OASSP'
 copyright = '2024, Organisation of African Space Sciences Professionals'
-author = 'Kiyini Joseph Balamazzze'
+author = 'OASSP'
+Reviewer = 'Kiyini Joseph Balamazzze'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
@@ -39,3 +40,4 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+ 
