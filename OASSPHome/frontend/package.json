@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "semantic-release": "^21.0.1"
+    "semantic-release": "^24.0.0"
   },
   "name": "oassphome2",
   "description": "Step2",
@@ -146,7 +146,7 @@
     "node-fetch": "^2.6.9",
     "normalize-package-data": "^3.0.3",
     "normalize-url": "^8.0.0",
-    "npm": "^9.6.4",
+    "npm": "^10.8.2",
     "npm-run-path": "^5.1.0",
     "once": "^1.4.0",
     "onetime": "^6.0.0",
