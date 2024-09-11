@@ -1,0 +1,14 @@
+# These are supported funding model platforms
+
+github: # Add  GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Add  Patreon username
+open_collective: # Add Open Collective username
+ko_fi: # Add Ko-fi username
+tidelift: # Add Tidelift platform-name/package-name e.g., npm/babel
+community_bridge:  # Add Community Bridge project-name e.g., cloud-foundry
+liberapay:  # Add Liberapay username
+issuehunt:  # Add IssueHunt username
+lfx_crowdfunding:  # Add LFX Crowdfunding project-name e.g., cloud-foundry
+polar:  # Add Polar username
+buy_me_a_coffee:  # Add Buy Me a Coffee username
+custom:  # Add sponsorship URLs e.g., ['link1', 'link2']
